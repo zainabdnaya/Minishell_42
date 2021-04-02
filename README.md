@@ -2,8 +2,10 @@
 
 ## What is a shell? :thinking: ## 
   Basically in an operating system there are these two elements:
+  <br>
     * The kernel (= kernel): which performs the fundamental functions of 
                     the operating system such as memory management, processes, files ...
+  <br>
     * The shell: At its base, a shell is simply a macro processor that executes commands. 
                 -The term macro processor means functionality where text and symbols are expanded to create larger expressions.
                 -A Unix shell is both a command interpreter and a programming language. 
